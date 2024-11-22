@@ -48,7 +48,3 @@ We welcome contributions! If you would like to improve the project, please fork 
 ### Demo
 
 Check out the live demo at https://www.figma.com/proto/3gSO7cQuoW0eCSB602HV1c/codsoft-task-3?node-id=1-2&node-type=frame&t=TjhzFuTkXZpARA1h-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2
-
----
-
-> **Note**: Ensure to replace placeholders like `yourusername`, `your email address`, and `your website link` with actual data relevant to your project. This will provide clarity to other developers or users who might be working with or visiting your restaurant page.
